@@ -1,1 +1,7 @@
-dfdf dfdfdfdf
+/**
+ * A
+ */
+public class A {
+
+    
+}
