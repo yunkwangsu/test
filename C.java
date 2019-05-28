@@ -1,0 +1,7 @@
+/**
+ * C
+ */
+public class C {
+
+    
+}
